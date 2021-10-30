@@ -1,0 +1,88 @@
+* {
+    padding: 0;
+}
+.form-group {
+    padding-top: 30px;
+}
+
+
+.input-group-text {
+    background-color: white;
+    color: black;
+}
+
+.input-group {
+    padding-top: 20px;
+}
+
+.login {
+    margin-top: 60px;
+    font-weight: bold;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: none;
+}
+.noidung{
+    margin: 0 auto;
+}
+.h1trangchu{
+    color: crimson;
+}
+.sach{
+  font-weight: bold;
+}
+.clear{
+    clear: both;
+}
+.gia{
+    color: red;
+}
+footer{
+    background-color: rgb(54, 50, 50);
+    color: rgb(172, 170, 167);
+}
+@-webkit-keyframes my {
+    0% { color: #f83a0a; } 
+    50% { color: rgb(240, 236, 12);  } 
+    100% { color: #F8CD0A;  } 
+}
+@-moz-keyframes my { 
+    0% { color: #f8420a;  } 
+    50% { color: rgb(8, 255, 90);  }
+    100% { color: #F8CD0A;  } 
+}
+@-o-keyframes my { 
+    0% { color: #f83a0a; } 
+    50% { color: rgb(1, 248, 75); } 
+    100% { color: #F8CD0A;  } 
+}
+@keyframes my { 
+    0% { color: #f83a0a;  } 
+    50% { color: rgb(17, 248, 9);  }
+    100% { color: #F8CD0A;  } 
+} 
+.test {
+        background:#615d5d;
+        font-size:50px;
+        font-weight:bold;
+    -webkit-animation: my 700ms infinite;
+    -moz-animation: my 700ms infinite; 
+    -o-animation: my 700ms infinite; 
+    animation: my 700ms infinite;
+}
+.test1{
+    font-size:30px;
+        font-weight:bold;
+    -webkit-animation: my 700ms infinite;
+    -moz-animation: my 700ms infinite; 
+    -o-animation: my 700ms infinite; 
+    animation: my 700ms infinite;
+}
+#chung{
+    color: red;
+}
+#thanhcong{
+    color: red;
+}
